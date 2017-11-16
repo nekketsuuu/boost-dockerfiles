@@ -28,10 +28,10 @@ docker run -it nekketsuuu/boost:1.65.0_gcc-7_ubuntu-16.04 /bin/bash
 
 ## Build
 
-Run `docker-build.sh` with version.
+Run `docker-build.sh`. The image tag is automatically searched from Dockerfile.
 
 ```sh
-./docker-build.sh 1.65.0_gcc-7_ubuntu-16.04
+./docker-build.sh
 ```
 
 If you want to publish an image, push it to Docker Hub
