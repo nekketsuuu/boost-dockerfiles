@@ -13,6 +13,7 @@ For their tag names, consult to Docker Hub. Note that there is no `latest` tag.
 ### GCC
 
 |        | Ubuntu 16.04 |
+|:------:|:------------:|
 | 1.65.0 |       o      |
 
 ### Clang
